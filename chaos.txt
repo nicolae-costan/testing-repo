@@ -190,3 +190,7 @@ Confidence: 51%
 Chaos attempt #48
 Status: probably broken
 Confidence: 92%
+
+Chaos attempt #49
+Status: probably broken
+Confidence: 34%
