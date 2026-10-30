@@ -262,3 +262,7 @@ Confidence: 39%
 Chaos attempt #66
 Status: probably broken
 Confidence: 59%
+
+Chaos attempt #67
+Status: probably broken
+Confidence: 42%
